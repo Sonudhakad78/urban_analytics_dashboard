@@ -1,0 +1,15 @@
+pandas
+geopandas
+shapely
+pyproj
+streamlit
+plotly
+scikit-learn
+joblib
+textblob
+nltk
+requests
+folium
+python-dotenv
+umap-learn
+hdbscan

@@ -1,0 +1,30 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {"neighborhood": "Delhi"},
+      "geometry": {"type": "Polygon","coordinates":[[[77.05,28.45],[77.35,28.45],[77.35,28.75],[77.05,28.75],[77.05,28.45]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"neighborhood": "Mumbai"},
+      "geometry": {"type": "Polygon","coordinates":[[[72.75,18.85],[73.00,18.85],[73.00,19.25],[72.75,19.25],[72.75,18.85]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"neighborhood": "Bengaluru"},
+      "geometry": {"type": "Polygon","coordinates":[[[77.45,12.85],[77.75,12.85],[77.75,13.10],[77.45,13.10],[77.45,12.85]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"neighborhood": "Kolkata"},
+      "geometry": {"type": "Polygon","coordinates":[[[88.25,22.45],[88.50,22.45],[88.50,22.70],[88.25,22.70],[88.25,22.45]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"neighborhood": "Chennai"},
+      "geometry": {"type": "Polygon","coordinates":[[[80.15,12.95],[80.35,12.95],[80.35,13.15],[80.15,13.15],[80.15,12.95]]]}
+    }
+  ]
+}

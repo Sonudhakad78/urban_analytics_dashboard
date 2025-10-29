@@ -1,0 +1,11 @@
+unique_key,created_date,closed_date,complaint_type,status,latitude,longitude,city
+2001,2025-10-10,2025-10-11,Garbage not collected,Closed,28.6139,77.2090,Delhi
+2002,2025-10-10,,Street light not working,Open,19.0760,72.8777,Mumbai
+2003,2025-10-11,2025-10-13,Water leakage,Closed,12.9716,77.5946,Bengaluru
+2004,2025-10-12,,Potholes on road,Open,22.5726,88.3639,Kolkata
+2005,2025-10-13,,Noise pollution,Open,13.0827,80.2707,Chennai
+2006,2025-10-13,2025-10-15,Overflowing drains,Closed,28.4595,77.0266,Gurgaon
+2007,2025-10-14,,Illegal parking,Open,18.5204,73.8567,Pune
+2008,2025-10-14,2025-10-16,Street cleaning required,Closed,26.9124,75.7873,Jaipur
+2009,2025-10-15,,Tree fallen,Open,17.3850,78.4867,Hyderabad
+2010,2025-10-15,2025-10-16,Garbage burning,Closed,23.2599,77.4126,Bhopal
